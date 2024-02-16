@@ -1,1 +1,1 @@
-# Tailwind
+I created a tailwind footer by applying the knowledge I acquired from the CSS Frameworks module. I did not encounter any challenges as It was easy to follow the instructions I was given in the step-by-step solution from the LMS. 
